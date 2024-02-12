@@ -10,7 +10,7 @@ def print_hi(name):
         print(n)
         break
     else:
-        print("Done")
+        print("Done !!!")
 
 
 # Press the green button in the gutter to run the script.
